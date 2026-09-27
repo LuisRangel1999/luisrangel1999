@@ -10,7 +10,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** e estou em busca de
 
 ## 📌 Projetos em destaque
 
-### ₿ Theo — Orientador de Criptomoedas
+### [₿ Theo — Orientador de Criptomoedas](https://github.com/LuisRangel1999/dio-lab-bia-do-futuro)
 
 Agente de **IA generativa** desenvolvido durante o bootcamp **GenAI, Dados & Cyber da DIO em parceria com o Bradesco**.
 
@@ -25,7 +25,7 @@ O projeto utiliza **Python, Streamlit, Ollama e GPT-OSS**, além de uma base de 
 * Controle de escopo e prevenção de alucinações
 * Aplicação de conceitos de segurança em sistemas de IA
 
-### 🏦 Sistema Bancário
+### [🏦 Sistema Bancário](https://github.com/LuisRangel1999/sistema-bancario)
 
 Projeto pessoal desenvolvido para praticar **Python, SQL e integração com banco de dados**.
 
